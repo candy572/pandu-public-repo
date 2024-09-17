@@ -6,4 +6,6 @@ public ip address : 13.232.40.150
 username : ec2-user
 private key : angular_practise_private_key.ppk  ==> upload this putty==>ssh==>auth==>privatekey path
 
+pat ==> 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
+
 
