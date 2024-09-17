@@ -11,5 +11,6 @@ private key : angular_practise_private_key.ppk  ==> upload this putty==>ssh==>au
 
 ga17lLlScXOmFICQ0brtNY
 
+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
 
 
