@@ -7,4 +7,9 @@ username : ec2-user
 private key : angular_practise_private_key.ppk  ==> upload this putty==>ssh==>auth==>privatekey path
 
 
+83Fx56xEwpo6zw
+
+ga17lLlScXOmFICQ0brtNY
+
+
 
